@@ -1,8 +1,7 @@
 % Octave Script
 %School                :Tecnologico de Estudios Superiores de Jilotepec 
-%Specialty             :Ingeniería en Sistemas Computacionales 
+%Specialty             :IngenierÃ­a en Sistemas Computacionales 
 % Title                :Funcion Inyectiva, Suprayectiva y Biyectiva
-% Description          :Script del segundo ejercicio de la actividad 18
 % Author               :Cristan Miranda Padilla
 % Date                 :202123107  
 %Grupo                 :3101
